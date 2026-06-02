@@ -1,0 +1,297 @@
+geo_accession,group_ml,group_plot,binary_T1R,signature_score,panel_name,algorithm,predicted_probability,predicted_class
+GSM1921378,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.39908625568085593,Tier 1 full signature,LOOCV logistic regression: panel score,0.009137729501090937,0
+GSM1921379,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.15898666677810258,Tier 1 full signature,LOOCV logistic regression: panel score,0.03121028078852841,0
+GSM1921380,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.7933862396759294,Tier 1 full signature,LOOCV logistic regression: panel score,0.0012039030995880046,0
+GSM1921381,T1R_R1,T1R R1,1,1.245238385208937,Tier 1 full signature,LOOCV logistic regression: panel score,0.9747274200469968,1
+GSM1921384,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.9123128781463397,Tier 1 full signature,LOOCV logistic regression: panel score,6.540341000273879e-4,0
+GSM1921386,Borderline_non_reaction,"Borderline
+non-reaction",0,0.08391416528640867,Tier 1 full signature,LOOCV logistic regression: panel score,0.10298085308166958,0
+GSM1921387,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.4139407973559737,Tier 1 full signature,LOOCV logistic regression: panel score,5.007973178316292e-5,0
+GSM1921388,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.41465566979032953,Tier 1 full signature,LOOCV logistic regression: panel score,0.008434709424589328,0
+GSM1921390,T1R_R1,T1R R1,1,1.275342638177507,Tier 1 full signature,LOOCV logistic regression: panel score,0.9783477012925028,1
+GSM1921392,Borderline_non_reaction,"Borderline
+non-reaction",0,0.5050916226527554,Tier 1 full signature,LOOCV logistic regression: panel score,0.5154885796111951,0
+GSM1921393,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.6824552698521993,Tier 1 full signature,LOOCV logistic regression: panel score,0.002128155908059781,0
+GSM1921395,T1R_R1,T1R R1,1,0.27529798282621415,Tier 1 full signature,LOOCV logistic regression: panel score,0.1616525945905551,0
+GSM1921396,T1R_R1,T1R R1,1,1.3951685238460685,Tier 1 full signature,LOOCV logistic regression: panel score,0.9883227291735565,1
+GSM1921402,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.2656410999826382,Tier 1 full signature,LOOCV logistic regression: panel score,1.0700041108070105e-4,0
+GSM1921403,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.8510310938742756,Tier 1 full signature,LOOCV logistic regression: panel score,5.34786146379943e-6,0
+GSM1921404,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.1991420669599868,Tier 1 full signature,LOOCV logistic regression: panel score,1.5040874197893355e-4,0
+GSM1921405,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.5864935775676425,Tier 1 full signature,LOOCV logistic regression: panel score,2.0706493707368727e-5,0
+GSM1921406,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.3490611719398214,Tier 1 full signature,LOOCV logistic regression: panel score,0.011816508841858494,0
+GSM1921407,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.6479339855736974,Tier 1 full signature,LOOCV logistic regression: panel score,1.5119929394067383e-5,0
+GSM1921408,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.2264668401129651,Tier 1 full signature,LOOCV logistic regression: panel score,0.022143395657612502,0
+GSM1921409,T1R_R1,T1R R1,1,0.8019689621179049,Tier 1 full signature,LOOCV logistic regression: panel score,0.7882179203485087,1
+GSM1921410,T1R_R1,T1R R1,1,0.9031596537523894,Tier 1 full signature,LOOCV logistic regression: panel score,0.8634664190688333,1
+GSM1921414,Borderline_non_reaction,"Borderline
+non-reaction",0,0.12532763078560474,Tier 1 full signature,LOOCV logistic regression: panel score,0.12471958578322713,0
+GSM1921416,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.4382330451227327,Tier 1 full signature,LOOCV logistic regression: panel score,0.007471519142707915,0
+GSM1921417,Borderline_non_reaction,"Borderline
+non-reaction",0,0.12954064730808665,Tier 1 full signature,LOOCV logistic regression: panel score,0.12713662585837524,0
+GSM1921418,Borderline_non_reaction,"Borderline
+non-reaction",0,1.0377072217721541,Tier 1 full signature,LOOCV logistic regression: panel score,0.9906876415561195,1
+GSM1921419,Borderline_non_reaction,"Borderline
+non-reaction",0,0.6088698224095891,Tier 1 full signature,LOOCV logistic regression: panel score,0.664080582809458,1
+GSM1921420,T1R_R1,T1R R1,1,0.6247515509208741,Tier 1 full signature,LOOCV logistic regression: panel score,0.5975458799937572,1
+GSM1921422,T1R_R1,T1R R1,1,1.4180995030924517,Tier 1 full signature,LOOCV logistic regression: panel score,0.9896259322405763,1
+GSM1921423,T1R_R1,T1R R1,1,0.6120266756432147,Tier 1 full signature,LOOCV logistic regression: panel score,0.5815119804642305,1
+GSM1921427,Borderline_non_reaction,"Borderline
+non-reaction",0,0.2507729700765806,Tier 1 full signature,LOOCV logistic regression: panel score,0.2148665082512467,0
+GSM1921428,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.17710284055424874,Tier 1 full signature,LOOCV logistic regression: panel score,0.028470513687991045,0
+GSM1921429,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.9434756943329032,Tier 1 full signature,LOOCV logistic regression: panel score,5.574444244565615e-4,0
+GSM1921430,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.3781405565215352,Tier 1 full signature,LOOCV logistic regression: panel score,6.015205207108404e-5,0
+GSM1921431,Borderline_non_reaction,"Borderline
+non-reaction",0,0.33434569755879084,Tier 1 full signature,LOOCV logistic regression: panel score,0.2973066531540109,0
+GSM1921432,Borderline_non_reaction,"Borderline
+non-reaction",0,-5.200523808011989e-4,Tier 1 full signature,LOOCV logistic regression: panel score,0.06875606734938479,0
+GSM1921433,Borderline_non_reaction,"Borderline
+non-reaction",0,0.3386901049456418,Tier 1 full signature,LOOCV logistic regression: panel score,0.3020846569398442,0
+GSM1921434,T1R_R1,T1R R1,1,0.7812304460589031,Tier 1 full signature,LOOCV logistic regression: panel score,0.7696357344492925,1
+GSM1921435,T1R_R1,T1R R1,1,0.6966882176922722,Tier 1 full signature,LOOCV logistic regression: panel score,0.6830948663574963,1
+GSM1921436,T1R_R1,T1R R1,1,0.6130932219645897,Tier 1 full signature,LOOCV logistic regression: panel score,0.5828645525170377,1
+GSM1921439,Borderline_non_reaction,"Borderline
+non-reaction",0,0.026912247485404897,Tier 1 full signature,LOOCV logistic regression: panel score,0.07853398104572949,0
+GSM1921440,T1R_R1,T1R R1,1,1.182050019845604,Tier 1 full signature,LOOCV logistic regression: panel score,0.9650864868091634,1
+GSM1921441,T1R_R1,T1R R1,1,0.2857255455013458,Tier 1 full signature,LOOCV logistic regression: panel score,0.1718599173859218,0
+GSM1921444,Borderline_non_reaction,"Borderline
+non-reaction",0,0.28705234527368545,Tier 1 full signature,LOOCV logistic regression: panel score,0.2484151583067471,0
+GSM1921378,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.30040501113406326,PPI hub panel,LOOCV logistic regression: panel score,0.027115948372395594,0
+GSM1921379,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.12442326822046033,PPI hub panel,LOOCV logistic regression: panel score,0.058648069323478304,0
+GSM1921380,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.7735996754624902,PPI hub panel,LOOCV logistic regression: panel score,0.0032432470454689,0
+GSM1921381,T1R_R1,T1R R1,1,1.3675792381421754,PPI hub panel,LOOCV logistic regression: panel score,0.978230242459864,1
+GSM1921384,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8102034444221955,PPI hub panel,LOOCV logistic regression: panel score,0.0027509140254953447,0
+GSM1921386,Borderline_non_reaction,"Borderline
+non-reaction",0,0.020434169928307964,PPI hub panel,LOOCV logistic regression: panel score,0.10771227692664918,0
+GSM1921387,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.3335558160515997,PPI hub panel,LOOCV logistic regression: panel score,2.623576737406222e-4,0
+GSM1921388,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.45313337175023743,PPI hub panel,LOOCV logistic regression: panel score,0.013704248562623837,0
+GSM1921390,T1R_R1,T1R R1,1,1.3287969998284486,PPI hub panel,LOOCV logistic regression: panel score,0.9740890068334095,1
+GSM1921392,Borderline_non_reaction,"Borderline
+non-reaction",0,0.5218558268089332,PPI hub panel,LOOCV logistic regression: panel score,0.5531415766709371,1
+GSM1921393,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.712248597785913,PPI hub panel,LOOCV logistic regression: panel score,0.00427417955086644,0
+GSM1921395,T1R_R1,T1R R1,1,0.20370727268717337,PPI hub panel,LOOCV logistic regression: panel score,0.1484094795660881,0
+GSM1921396,T1R_R1,T1R R1,1,1.4795329699188378,PPI hub panel,LOOCV logistic regression: panel score,0.9868540836190527,1
+GSM1921402,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.268109389486348,PPI hub panel,LOOCV logistic regression: panel score,3.518573191812055e-4,0
+GSM1921403,Borderline_non_reaction,"Borderline
+non-reaction",0,-2.026816483404913,PPI hub panel,LOOCV logistic regression: panel score,1.1741058508452931e-5,0
+GSM1921404,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.1054189098467946,PPI hub panel,LOOCV logistic regression: panel score,7.301379764785112e-4,0
+GSM1921405,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.5617578358921473,PPI hub panel,LOOCV logistic regression: panel score,9.432234226047453e-5,0
+GSM1921406,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.29549982105981126,PPI hub panel,LOOCV logistic regression: panel score,0.02771311799773179,0
+GSM1921407,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.694160342668625,PPI hub panel,LOOCV logistic regression: panel score,5.211244011560518e-5,0
+GSM1921408,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.3235745056692564,PPI hub panel,LOOCV logistic regression: panel score,0.02446104690673046,0
+GSM1921409,T1R_R1,T1R R1,1,0.7312590204481287,PPI hub panel,LOOCV logistic regression: panel score,0.7065565984566883,1
+GSM1921410,T1R_R1,T1R R1,1,0.9115947448313942,PPI hub panel,LOOCV logistic regression: panel score,0.8454750141753525,1
+GSM1921414,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.18303422922861215,PPI hub panel,LOOCV logistic regression: panel score,0.04548754421175061,0
+GSM1921416,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.39969385251852935,PPI hub panel,LOOCV logistic regression: panel score,0.017412737212144414,0
+GSM1921417,Borderline_non_reaction,"Borderline
+non-reaction",0,0.14598686465089875,PPI hub panel,LOOCV logistic regression: panel score,0.17605739882437324,0
+GSM1921418,Borderline_non_reaction,"Borderline
+non-reaction",0,1.0179560645261034,PPI hub panel,LOOCV logistic regression: panel score,0.9742594694616475,1
+GSM1921419,Borderline_non_reaction,"Borderline
+non-reaction",0,0.5945206481629738,PPI hub panel,LOOCV logistic regression: panel score,0.6440085001259095,1
+GSM1921420,T1R_R1,T1R R1,1,0.5324983815446291,PPI hub panel,LOOCV logistic regression: panel score,0.49400254115106473,1
+GSM1921422,T1R_R1,T1R R1,1,1.5590991108468,PPI hub panel,LOOCV logistic regression: panel score,0.9908206623453419,1
+GSM1921423,T1R_R1,T1R R1,1,0.6830572537763407,PPI hub panel,LOOCV logistic regression: panel score,0.659515242713122,1
+GSM1921427,Borderline_non_reaction,"Borderline
+non-reaction",0,0.40541651980671867,PPI hub panel,LOOCV logistic regression: panel score,0.41253722779580715,0
+GSM1921428,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.04371770055482553,PPI hub panel,LOOCV logistic regression: panel score,0.08264199834255571,0
+GSM1921429,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8173895896212154,PPI hub panel,LOOCV logistic regression: panel score,0.00266342884477188,0
+GSM1921430,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.351770143923837,PPI hub panel,LOOCV logistic regression: panel score,2.4178108497783986e-4,0
+GSM1921431,Borderline_non_reaction,"Borderline
+non-reaction",0,0.34106167973859863,PPI hub panel,LOOCV logistic regression: panel score,0.3421690169669192,0
+GSM1921432,Borderline_non_reaction,"Borderline
+non-reaction",0,0.05557563039936893,PPI hub panel,LOOCV logistic regression: panel score,0.12408882553253586,0
+GSM1921433,Borderline_non_reaction,"Borderline
+non-reaction",0,0.3160380187603304,PPI hub panel,LOOCV logistic regression: panel score,0.31671766256660633,0
+GSM1921434,T1R_R1,T1R R1,1,0.7273486078496398,PPI hub panel,LOOCV logistic regression: panel score,0.7028810437831693,1
+GSM1921435,T1R_R1,T1R R1,1,0.68348497075997,PPI hub panel,LOOCV logistic regression: panel score,0.6599485447847456,1
+GSM1921436,T1R_R1,T1R R1,1,0.5971863888628091,PPI hub panel,LOOCV logistic regression: panel score,0.5677238531582377,1
+GSM1921439,Borderline_non_reaction,"Borderline
+non-reaction",0,0.012268106885772033,PPI hub panel,LOOCV logistic regression: panel score,0.10418683956745581,0
+GSM1921440,T1R_R1,T1R R1,1,1.0836295406622087,PPI hub panel,LOOCV logistic regression: panel score,0.9236924437140672,1
+GSM1921441,T1R_R1,T1R R1,1,0.14149896470304255,PPI hub panel,LOOCV logistic regression: panel score,0.10406656468582795,0
+GSM1921444,Borderline_non_reaction,"Borderline
+non-reaction",0,0.11712499417227476,PPI hub panel,LOOCV logistic regression: panel score,0.1578413034091835,0
+GSM1921378,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.2988535441332228,Top biological panel,LOOCV logistic regression: panel score,0.028764985461220225,0
+GSM1921379,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.2020334033192019,Top biological panel,LOOCV logistic regression: panel score,0.04344153934474011,0
+GSM1921380,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8121195965431853,Top biological panel,LOOCV logistic regression: panel score,0.0031086107677246724,0
+GSM1921381,T1R_R1,T1R R1,1,1.3706444812688123,Top biological panel,LOOCV logistic regression: panel score,0.9738621194517492,1
+GSM1921384,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.87115718764262,Top biological panel,LOOCV logistic regression: panel score,0.0024051166825335454,0
+GSM1921386,Borderline_non_reaction,"Borderline
+non-reaction",0,0.006917919240923263,Top biological panel,LOOCV logistic regression: panel score,0.10251443630183746,0
+GSM1921387,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.4483022893870636,Top biological panel,LOOCV logistic regression: panel score,1.9666734580989743e-4,0
+GSM1921388,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.43448832239605933,Top biological panel,LOOCV logistic regression: panel score,0.016031824953109168,0
+GSM1921390,T1R_R1,T1R R1,1,1.3602261802869318,Top biological panel,LOOCV logistic regression: panel score,0.9726563412940444,1
+GSM1921392,Borderline_non_reaction,"Borderline
+non-reaction",0,0.6487615173863941,Top biological panel,LOOCV logistic regression: panel score,0.6851361153623323,1
+GSM1921393,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.5916953641219916,Top biological panel,LOOCV logistic regression: panel score,0.008104705214064952,0
+GSM1921395,T1R_R1,T1R R1,1,0.2960140704536844,Top biological panel,LOOCV logistic regression: panel score,0.2239700093831506,0
+GSM1921396,T1R_R1,T1R R1,1,1.3831574253071524,Top biological panel,LOOCV logistic regression: panel score,0.9752414030403929,1
+GSM1921402,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.2173847229023054,Top biological panel,LOOCV logistic regression: panel score,5.350999265742363e-4,0
+GSM1921403,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.9240470109859948,Top biological panel,LOOCV logistic regression: panel score,2.505485829143644e-5,0
+GSM1921404,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.0879282464906472,Top biological panel,LOOCV logistic regression: panel score,9.382736051687675e-4,0
+GSM1921405,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.6100562101034612,Top biological panel,LOOCV logistic regression: panel score,9.759068601751041e-5,0
+GSM1921406,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.4092842526188312,Top biological panel,LOOCV logistic regression: panel score,0.01787860568769033,0
+GSM1921407,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.6776226549623172,Top biological panel,LOOCV logistic regression: panel score,7.283122893119397e-5,0
+GSM1921408,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.2613243382721854,Top biological panel,LOOCV logistic regression: panel score,0.03377191381457564,0
+GSM1921409,T1R_R1,T1R R1,1,0.6595312176645105,Top biological panel,LOOCV logistic regression: panel score,0.6145528193835805,1
+GSM1921410,T1R_R1,T1R R1,1,1.105985582560597,Top biological panel,LOOCV logistic regression: panel score,0.9195605775057578,1
+GSM1921414,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.011811285063076363,Top biological panel,LOOCV logistic regression: panel score,0.09516663032569266,0
+GSM1921416,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.4683308658878782,Top biological panel,LOOCV logistic regression: panel score,0.013845854562071321,0
+GSM1921417,Borderline_non_reaction,"Borderline
+non-reaction",0,0.1041029854003465,Top biological panel,LOOCV logistic regression: panel score,0.14904199217922565,0
+GSM1921418,Borderline_non_reaction,"Borderline
+non-reaction",0,0.9784348826458542,Top biological panel,LOOCV logistic regression: panel score,0.9525598643568762,1
+GSM1921419,Borderline_non_reaction,"Borderline
+non-reaction",0,0.6633812864567462,Top biological panel,LOOCV logistic regression: panel score,0.7020653657700467,1
+GSM1921420,T1R_R1,T1R R1,1,0.48791167981406053,Top biological panel,LOOCV logistic regression: panel score,0.4260705043148646,1
+GSM1921422,T1R_R1,T1R R1,1,1.3610205214677442,Top biological panel,LOOCV logistic regression: panel score,0.9727501671570813,1
+GSM1921423,T1R_R1,T1R R1,1,0.4475548839448657,Top biological panel,LOOCV logistic regression: panel score,0.38098026808527996,1
+GSM1921427,Borderline_non_reaction,"Borderline
+non-reaction",0,0.24350539166990587,Top biological panel,LOOCV logistic regression: panel score,0.2441074347583608,0
+GSM1921428,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.15663895454680063,Top biological panel,LOOCV logistic regression: panel score,0.05258079719779944,0
+GSM1921429,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8324175569426442,Top biological panel,LOOCV logistic regression: panel score,0.0028461066944596284,0
+GSM1921430,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.3809310832247252,Top biological panel,LOOCV logistic regression: panel score,2.6334304362993373e-4,0
+GSM1921431,Borderline_non_reaction,"Borderline
+non-reaction",0,0.443926340760591,Top biological panel,LOOCV logistic regression: panel score,0.44160861081163916,1
+GSM1921432,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.0594350269657072,Top biological panel,LOOCV logistic regression: panel score,0.07855419967743385,0
+GSM1921433,Borderline_non_reaction,"Borderline
+non-reaction",0,0.30163614576471154,Top biological panel,LOOCV logistic regression: panel score,0.29438485729033137,0
+GSM1921434,T1R_R1,T1R R1,1,0.944721062167303,Top biological panel,LOOCV logistic regression: panel score,0.847829582899087,1
+GSM1921435,T1R_R1,T1R R1,1,0.7099701397921605,Top biological panel,LOOCV logistic regression: panel score,0.6652326013867671,1
+GSM1921436,T1R_R1,T1R R1,1,0.6629964030571164,Top biological panel,LOOCV logistic regression: panel score,0.6181348957837078,1
+GSM1921439,Borderline_non_reaction,"Borderline
+non-reaction",0,0.1456500784438085,Top biological panel,LOOCV logistic regression: panel score,0.17368141490566166,0
+GSM1921440,T1R_R1,T1R R1,1,0.9456255176523622,Top biological panel,LOOCV logistic regression: panel score,0.8483464006880974,1
+GSM1921441,T1R_R1,T1R R1,1,0.19386641834101184,Top biological panel,LOOCV logistic regression: panel score,0.13900705100692068,0
+GSM1921444,Borderline_non_reaction,"Borderline
+non-reaction",0,0.2903197849623286,Top biological panel,LOOCV logistic regression: panel score,0.28411065046591966,0
+GSM1921378,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.36391913849817015,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.00880290076152307,0
+GSM1921379,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.3202725581833185,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.01121347837564476,0
+GSM1921380,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.9439077159676275,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,3.541537871606977e-4,0
+GSM1921381,T1R_R1,T1R R1,1,1.3039376367902797,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9881377821881477,1
+GSM1921384,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8906860319041693,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,4.7530737109404645e-4,0
+GSM1921386,Borderline_non_reaction,"Borderline
+non-reaction",0,0.1520913026234363,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.13994463779599142,0
+GSM1921387,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.3857646742373306,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,3.085597040944854e-5,0
+GSM1921388,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.4762030616781574,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.004721036834642437,0
+GSM1921390,T1R_R1,T1R R1,1,1.378881767378593,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9921877489995191,1
+GSM1921392,Borderline_non_reaction,"Borderline
+non-reaction",0,0.4560627121065611,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.48230510482523287,1
+GSM1921393,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.6469096678946323,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.0018320285162578632,0
+GSM1921395,T1R_R1,T1R R1,1,0.26057779518769364,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.14964738271987565,0
+GSM1921396,T1R_R1,T1R R1,1,1.4603953134632746,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9950383049343515,1
+GSM1921402,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.1565864923906277,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,1.0936729882226335e-4,0
+GSM1921403,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.726777685870497,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,4.697628973693336e-6,0
+GSM1921404,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.0828387988597918,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,1.643579723768131e-4,0
+GSM1921405,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.5263859148500822,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,1.4198003388752165e-5,0
+GSM1921406,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.3086141558956507,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.01196191940458149,0
+GSM1921407,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.5518328367658267,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,1.2337500872945195e-5,0
+GSM1921408,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.247568864147896,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.016770350894659416,0
+GSM1921409,T1R_R1,T1R R1,1,0.8433708467051914,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.8574815973674109,1
+GSM1921410,T1R_R1,T1R R1,1,1.026781370298662,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9450896734655256,1
+GSM1921414,Borderline_non_reaction,"Borderline
+non-reaction",0,0.12035972557022499,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.11976731969194028,0
+GSM1921416,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.3898338967431622,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.007624033997345612,0
+GSM1921417,Borderline_non_reaction,"Borderline
+non-reaction",0,0.18891570900691104,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.16682478745360774,0
+GSM1921418,Borderline_non_reaction,"Borderline
+non-reaction",0,0.9121110691882011,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9836833645260087,1
+GSM1921419,Borderline_non_reaction,"Borderline
+non-reaction",0,0.5865774668284607,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.6872196720191801,1
+GSM1921420,T1R_R1,T1R R1,1,0.5329684468957775,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.5099374866999183,1
+GSM1921422,T1R_R1,T1R R1,1,1.3739579429062991,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9919704491719433,1
+GSM1921423,T1R_R1,T1R R1,1,0.6265170547541645,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.6387003761540914,1
+GSM1921427,Borderline_non_reaction,"Borderline
+non-reaction",0,0.28449161167150644,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.2555489328010635,1
+GSM1921428,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.23336695484869946,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.01813922223090329,0
+GSM1921429,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.8871563018485135,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,4.846751543210173e-4,0
+GSM1921430,Borderline_non_reaction,"Borderline
+non-reaction",0,-1.4304486196938817,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,2.4110903779907634e-5,0
+GSM1921431,Borderline_non_reaction,"Borderline
+non-reaction",0,0.22114554319790167,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.19360438597240578,0
+GSM1921432,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.15704478072005768,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.0276118078636735,0
+GSM1921433,Borderline_non_reaction,"Borderline
+non-reaction",0,0.16177415400794842,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.14664138553328931,0
+GSM1921434,T1R_R1,T1R R1,1,0.8781282029561004,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.8800776177657591,1
+GSM1921435,T1R_R1,T1R R1,1,0.6701002057123051,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.6930510893879945,1
+GSM1921436,T1R_R1,T1R R1,1,0.6304190544473882,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.6437434232692755,1
+GSM1921439,Borderline_non_reaction,"Borderline
+non-reaction",0,-0.024645208216153,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.0565876553588611,0
+GSM1921440,T1R_R1,T1R R1,1,1.1778636474140771,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.9760728612178028,1
+GSM1921441,T1R_R1,T1R R1,1,0.3021872337039151,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.1942232461769673,1
+GSM1921444,Borderline_non_reaction,"Borderline
+non-reaction",0,0.20114754639937243,Tier 1 + key Tier 2 panel,LOOCV logistic regression: panel score,0.17662154317851014,0

@@ -1,0 +1,2 @@
+comparison,validation_type,method,p_value
+T1R_R1 vs Borderline_non_reaction,Internal GSE74481 signature assessment,Wilcoxon rank-sum test,1.585477785110354e-6

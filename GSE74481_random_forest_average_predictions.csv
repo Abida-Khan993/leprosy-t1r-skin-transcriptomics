@@ -1,0 +1,177 @@
+panel_name,algorithm,geo_accession,binary_T1R,predicted_probability,n_times_tested,predicted_class
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921378,0,0.014593749999999999,32,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921379,0,0.03244,25,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921380,0,0.07332258064516128,31,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921381,1,0.8728888888888889,27,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921384,0,1.3793103448275863e-4,29,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921386,0,0.21937931034482758,29,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921387,0,0,27,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921388,0,2e-4,35,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921390,1,0.8673225806451613,31,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921392,0,0.475875,24,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921393,0,0.0024000000000000002,25,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921395,1,0.21575862068965518,29,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921396,1,0.9155,24,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921402,0,8.214285714285715e-4,28,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921403,0,0.12778571428571428,28,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921404,0,0.00275,24,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921405,0,0,22,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921406,0,0.0135625,32,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921407,0,0.03534615384615385,26,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921408,0,0.015421052631578946,19,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921409,1,0.7097586206896552,29,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921410,1,0.8047931034482758,29,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921414,0,0.3612068965517241,29,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921416,0,0.01780769230769231,26,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921417,0,0.2917142857142857,28,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921418,0,0.7758928571428572,28,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921419,0,0.6916111111111111,18,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921420,1,0.562047619047619,21,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921422,1,0.9243076923076923,39,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921423,1,0.47103333333333336,30,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921427,0,0.3416818181818182,22,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921428,0,0.12392,25,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921429,0,0.005277777777777778,18,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921430,0,0,25,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921431,0,0.30867441860465117,43,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921432,0,0.11748148148148148,27,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921433,0,0.21885185185185185,27,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921434,1,0.6767037037037037,27,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921435,1,0.6805454545454546,33,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921436,1,0.5143448275862069,29,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921439,0,0.14584615384615385,26,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921440,1,0.9094583333333334,24,1
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921441,1,0.21246428571428572,28,0
+Tier 1 full signature,Repeated random forest: candidate genes,GSM1921444,0,0.2883636363636364,22,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921378,0,0.02732,25,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921379,0,0.028846153846153848,26,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921380,0,0.11246428571428571,28,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921381,1,0.7850416666666666,24,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921384,0,4.7058823529411766e-4,34,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921386,0,0.28024242424242424,33,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921387,0,1.25e-4,24,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921388,0,0.0011764705882352942,17,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921390,1,0.90728125,32,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921392,0,0.5712962962962963,27,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921393,0,0.0013703703703703703,27,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921395,1,0.11913333333333333,30,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921396,1,0.8835,28,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921402,0,0.00124,25,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921403,0,3.7037037037037037e-5,27,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921404,0,4.642857142857143e-4,28,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921405,0,6.451612903225807e-5,31,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921406,0,0.03702941176470588,34,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921407,0,0.07034615384615385,26,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921408,0,0.0035416666666666665,24,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921409,1,0.8297727272727272,22,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921410,1,0.7877586206896552,29,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921414,0,0.21095833333333333,24,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921416,0,0.03711111111111111,18,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921417,0,0.3164705882352941,17,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921418,0,0.769375,32,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921419,0,0.7920555555555555,18,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921420,1,0.59768,25,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921422,1,0.8996470588235295,34,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921423,1,0.6054782608695652,23,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921427,0,0.43834782608695655,23,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921428,0,0.2943846153846154,26,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921429,0,0.019586206896551724,29,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921430,0,4.230769230769231e-4,26,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921431,0,0.43403703703703705,27,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921432,0,0.1645,26,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921433,0,0.225875,40,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921434,1,0.631775,40,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921435,1,0.6743421052631579,38,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921436,1,0.6288461538461538,26,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921439,0,0.0992258064516129,31,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921440,1,0.8346923076923077,26,1
+PPI hub panel,Repeated random forest: candidate genes,GSM1921441,1,0.11347826086956522,23,0
+PPI hub panel,Repeated random forest: candidate genes,GSM1921444,0,0.15522222222222223,27,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921378,0,0.013838709677419354,31,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921379,0,0.05245,20,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921380,0,0.0945,26,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921381,1,0.7910714285714285,28,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921384,0,1.7391304347826088e-4,23,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921386,0,0.22904545454545455,22,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921387,0,6.896551724137931e-5,29,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921388,0,4.6153846153846153e-4,26,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921390,1,0.8625384615384616,26,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921392,0,0.5866,35,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921393,0,0.00975,24,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921395,1,0.17978125,32,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921396,1,0.8767941176470588,34,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921402,0,7.2e-4,25,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921403,0,7.407407407407407e-5,27,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921404,0,3.103448275862069e-4,29,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921405,0,4.545454545454546e-5,22,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921406,0,0.022454545454545456,22,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921407,0,0.051807692307692305,26,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921408,0,0.0038,35,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921409,1,0.80446875,32,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921410,1,0.83609375,32,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921414,0,0.22141935483870967,31,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921416,0,0.0153,20,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921417,0,0.2263888888888889,18,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921418,0,0.823030303030303,33,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921419,0,0.8046896551724138,29,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921420,1,0.6011724137931035,29,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921422,1,0.8868666666666667,30,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921423,1,0.40925,24,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921427,0,0.34086363636363637,22,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921428,0,0.1713157894736842,19,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921429,0,0.010461538461538461,26,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921430,0,1.0526315789473685e-4,38,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921431,0,0.45380645161290323,31,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921432,0,0.07253846153846154,26,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921433,0,0.18488235294117647,34,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921434,1,0.7535384615384616,26,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921435,1,0.6748148148148149,27,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921436,1,0.60552,25,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921439,0,0.20882142857142857,28,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921440,1,0.8091785714285714,28,1
+Top biological panel,Repeated random forest: candidate genes,GSM1921441,1,0.15885185185185186,27,0
+Top biological panel,Repeated random forest: candidate genes,GSM1921444,0,0.2837391304347826,23,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921378,0,0.018851851851851852,27,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921379,0,0.016576923076923076,26,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921380,0,0.05592857142857143,28,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921381,1,0.9145714285714286,21,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921384,0,3.6666666666666667e-4,30,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921386,0,0.3218285714285714,35,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921387,0,8.695652173913044e-5,23,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921388,0,1.6666666666666666e-4,30,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921390,1,0.9299642857142857,28,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921392,0,0.422,24,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921393,0,0.002085714285714286,35,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921395,1,0.15072093023255814,43,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921396,1,0.9384074074074074,27,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921402,0,0.0054,25,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921403,0,0.106,20,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921404,0,0.0017142857142857142,28,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921405,0,4.1666666666666665e-5,24,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921406,0,0.034194444444444444,36,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921407,0,0.031185185185185184,27,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921408,0,0.01814285714285714,28,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921409,1,0.721,30,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921410,1,0.8684137931034482,29,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921414,0,0.32836,25,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921416,0,0.04027272727272727,22,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921417,0,0.3345666666666667,30,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921418,0,0.7503684210526316,19,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921419,0,0.66,20,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921420,1,0.48121875000000003,32,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921422,1,0.9414444444444444,27,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921423,1,0.49889655172413794,29,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921427,0,0.42792857142857144,28,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921428,0,0.0939,30,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921429,0,0.01853846153846154,26,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921430,0,0,22,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921431,0,0.24648,25,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921432,0,0.077,21,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921433,0,0.12348275862068965,29,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921434,1,0.7419375,32,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921435,1,0.6214444444444445,18,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921436,1,0.564962962962963,27,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921439,0,0.09684375,32,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921440,1,0.9114761904761904,21,1
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921441,1,0.2521388888888889,36,0
+Tier 1 + key Tier 2 panel,Repeated random forest: candidate genes,GSM1921444,0,0.1908,25,0

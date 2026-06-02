@@ -1,0 +1,5 @@
+t1r_status,stimulation_status,n_samples
+T1R_affected,antigen_stimulated,10
+T1R_free,antigen_stimulated,22
+T1R_affected,unstimulated,10
+T1R_free,unstimulated,22

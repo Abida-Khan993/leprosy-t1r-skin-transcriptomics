@@ -1,0 +1,4 @@
+file_name,file_size_mb
+GSE269151_expression_matrix_salmon_original.txt.gz,13.52
+GSE269151_expression_matrix_salmon_txtImport_dtuScaledTPM.txt.gz,34.7
+GSE269151_expression_matrix_salmon_txtImport_lengthScaledTPM.txt.gz,34.68
